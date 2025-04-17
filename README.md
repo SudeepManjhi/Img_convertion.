@@ -1,1 +1,1 @@
-# Img_convertion.
+This project performs basic image processing using OpenCV and Keras, including grayscale conversion, resizing, annotation, and data augmentation techniques like rotation, zoom, and flipping for deep learning applications.
